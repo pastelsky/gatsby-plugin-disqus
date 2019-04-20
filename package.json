@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-disqus",
+  "name": "@pastelsky/gatsby-plugin-disqus",
   "description": "A component for integrating Disqus comments in Gatsby.",
   "version": "1.0.1",
   "repository": "https://github.com/tterb/gatsby-plugin-disqus",
@@ -15,7 +15,7 @@
     "disqus",
     "comments"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "author": "Brett Stevenson <bstevensondev@gmail.com> (https://brettstevenson.io)",
   "license": "MIT",
   "scripts": {
